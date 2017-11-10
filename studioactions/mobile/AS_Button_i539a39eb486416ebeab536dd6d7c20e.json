@@ -1,0 +1,28 @@
+{
+    "AS_Button_i539a39eb486416ebeab536dd6d7c20e": {
+        "id": "AS_Button_i539a39eb486416ebeab536dd6d7c20e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPushNotification",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c85f511e159642e2a90246ea52b2d946"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b3424559b908446ab6e9636723fb19e2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addUser",
+            "display": "addUser",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

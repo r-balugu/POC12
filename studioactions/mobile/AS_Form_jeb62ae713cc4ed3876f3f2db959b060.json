@@ -1,0 +1,27 @@
+{
+    "AS_Form_jeb62ae713cc4ed3876f3f2db959b060": {
+        "id": "AS_Form_jeb62ae713cc4ed3876f3f2db959b060",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPushNotification",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c85f511e159642e2a90246ea52b2d946"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_gb45cd493fa848eea06d61f3c74a533f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerPushCallBacks",
+            "display": "registerPushCallBacks",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

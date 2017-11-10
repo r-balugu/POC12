@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "179dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s671844ce523485b9cc7a4e4663eae9c",
+    "_text_": "Generate Notifcation",
+    "_top_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.13%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1d784d54cc8420f9847d1723d60069e",
+    "id": "btnGenerateNotification",
+    "ide_onClick": "AS_Button_af0e96cc6add4872b2d2c8ac0d85c468",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a02a05e96b7645a88b6d6069e68a7e78",
+    "name": "kony.ui.Button",
+    "parent": "frmPushNotification",
+    "pf": "frmPushNotification",
+    "wType": "Button",
+    "zindex": 1
+}

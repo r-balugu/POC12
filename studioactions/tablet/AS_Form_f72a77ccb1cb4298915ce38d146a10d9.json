@@ -1,0 +1,28 @@
+{
+    "AS_Form_f72a77ccb1cb4298915ce38d146a10d9": {
+        "id": "AS_Form_f72a77ccb1cb4298915ce38d146a10d9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPushNotification",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d1f97ff49c564351958ed166add51fc7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b3993d635ba7420e8d566071e75086a3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerPushCallBacks",
+            "display": "registerPushCallBacks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

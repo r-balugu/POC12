@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfa0cad2e53a4c7b87f2fc43cfcfb4bf",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "Label0d65fdf313c7f42",
+        "Label0f95834f09ff24d",
+        "txtPushMessage",
+        "btnGenerateNotification",
+        "FlexGroup0bf5b5e3cc21948"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "frmPushNotificationController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone5",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmPushNotification",
+    "ide_postShow": "AS_Form_jeb62ae713cc4ed3876f3f2db959b060",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": false
+            }
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "c85f511e159642e2a90246ea52b2d946",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone5",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s3e9182bf2144a5ebaafb632f7e3e0fe",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

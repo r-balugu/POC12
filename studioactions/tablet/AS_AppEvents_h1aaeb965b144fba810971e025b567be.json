@@ -1,0 +1,21 @@
+{
+    "AS_AppEvents_h1aaeb965b144fba810971e025b567be": {
+        "id": "AS_AppEvents_h1aaeb965b144fba810971e025b567be",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b9fcc39d4ad94632a3567d00a54b2da6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "initializeMobileFabric",
+            "display": "initializeMobileFabric",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
